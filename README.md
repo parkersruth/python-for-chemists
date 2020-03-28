@@ -17,4 +17,3 @@ Anaconda is a distribution of the Python language, a large number of helpful pac
 4. From the Anaconda Navigator, launch the JupyterLab application (you can 
 5. Navigate the directory to find and open the `hw-0-getting-started.ipynb` file.
 6. Follow the instructions in the file to get started.
-
