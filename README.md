@@ -2,7 +2,7 @@
 
 This repository provides an introduction to Python programming using Jupyter Notebooks for chemists. The worksheets are intended to accompany an introductory chemistry curriculum. If you haven't used Jupyter notebooks before, begin by following the instructions below.
 
-For instructor access to answer keys, ... **provide an email address?**
+For instructor access to answer keys, email Dr. David Ginger at dginger@uw.edu.
 
 ## Getting Started with Jupyter Notebooks
 
